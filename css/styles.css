@@ -1,0 +1,26 @@
+/*************************TAG SELECTORS****************************/
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 4px;
+  width: 5%;
+}
+
+body {
+  background-color: #e3f6f5;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h3 {
+  color: #46b3e6;
+}
+
+/*************************CLASS SELECTORS************************/
+.kFariasPic {
+  border-radius: 100%;
+}
+
+/************************ ID SELECTORS***************************/
